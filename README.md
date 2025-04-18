@@ -1,2 +1,2 @@
-# Ola-Mundo
- Curso em Video - Git e GitHub
+# Olá Mundo
+ Curso em Vídeo com Gustavo Guanabara - Git e GitHub
